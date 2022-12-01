@@ -1,5 +1,5 @@
 # Курс "Практический Machine Learning"
-Материалы к курсу [Практический Machine Learning](https://stepik.org/course/125501/syllabus).
+Материалы к курсу [Практический Machine Learning](https://stepik.org/a/125501).
 
 ## Содержание курса
 - Организация курса
